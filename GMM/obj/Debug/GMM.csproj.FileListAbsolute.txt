@@ -1,0 +1,17 @@
+c:\users\robin\onedrive\documents\visual studio 2015\Projects\GMM\GMM\bin\Debug\GMM.exe.config
+c:\users\robin\onedrive\documents\visual studio 2015\Projects\GMM\GMM\bin\Debug\GMM.exe
+c:\users\robin\onedrive\documents\visual studio 2015\Projects\GMM\GMM\bin\Debug\GMM.pdb
+c:\users\robin\onedrive\documents\visual studio 2015\Projects\GMM\GMM\obj\Debug\GMM.csprojResolveAssemblyReference.cache
+c:\users\robin\onedrive\documents\visual studio 2015\Projects\GMM\GMM\obj\Debug\MainWindow.g.cs
+c:\users\robin\onedrive\documents\visual studio 2015\Projects\GMM\GMM\obj\Debug\App.g.cs
+c:\users\robin\onedrive\documents\visual studio 2015\Projects\GMM\GMM\obj\Debug\GMM_MarkupCompile.cache
+c:\users\robin\onedrive\documents\visual studio 2015\Projects\GMM\GMM\obj\Debug\GMM_MarkupCompile.lref
+c:\users\robin\onedrive\documents\visual studio 2015\Projects\GMM\GMM\obj\Debug\MainWindow.baml
+c:\users\robin\onedrive\documents\visual studio 2015\Projects\GMM\GMM\obj\Debug\GMM.g.resources
+c:\users\robin\onedrive\documents\visual studio 2015\Projects\GMM\GMM\obj\Debug\GMM.Properties.Resources.resources
+c:\users\robin\onedrive\documents\visual studio 2015\Projects\GMM\GMM\obj\Debug\GMM.csproj.GenerateResource.Cache
+c:\users\robin\onedrive\documents\visual studio 2015\Projects\GMM\GMM\obj\Debug\GMM.exe
+c:\users\robin\onedrive\documents\visual studio 2015\Projects\GMM\GMM\obj\Debug\GMM.pdb
+C:\Users\robin\Source\Repos\GMM\GMM\bin\Debug\GMM.exe.config
+C:\Users\robin\Source\Repos\GMM\GMM\obj\Debug\GMM.exe
+C:\Users\robin\Source\Repos\GMM\GMM\obj\Debug\GMM.pdb

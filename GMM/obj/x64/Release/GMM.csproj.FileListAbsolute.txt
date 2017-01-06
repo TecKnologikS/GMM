@@ -1,0 +1,10 @@
+C:\Users\robin\OneDrive\documents\visual studio 2015\Projects\GMM\GMM\obj\x64\Release\MainWindow.g.cs
+C:\Users\robin\OneDrive\documents\visual studio 2015\Projects\GMM\GMM\obj\x64\Release\App.g.cs
+C:\Users\robin\OneDrive\documents\visual studio 2015\Projects\GMM\GMM\obj\x64\Release\GMM_MarkupCompile.cache
+C:\Users\robin\OneDrive\documents\visual studio 2015\Projects\GMM\GMM\obj\x64\Release\GMM_MarkupCompile.lref
+C:\Users\robin\OneDrive\documents\visual studio 2015\Projects\GMM\GMM\obj\x64\Release\MainWindow.baml
+C:\Users\robin\OneDrive\documents\visual studio 2015\Projects\GMM\GMM\obj\x64\Release\GMM.g.resources
+C:\Users\robin\OneDrive\documents\visual studio 2015\Projects\GMM\GMM\obj\x64\Release\GMM.Properties.Resources.resources
+C:\Users\robin\OneDrive\documents\visual studio 2015\Projects\GMM\GMM\obj\x64\Release\GMM.csproj.GenerateResource.Cache
+C:\Users\robin\OneDrive\documents\visual studio 2015\Projects\GMM\GMM\obj\x64\Release\GMM.exe
+C:\Users\robin\OneDrive\documents\visual studio 2015\Projects\GMM\GMM\obj\x64\Release\GMM.pdb
