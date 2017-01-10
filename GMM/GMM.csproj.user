@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
-    <StartArguments>1 "65002410170" "259681" "65002410170" "C:\Users\robin\Desktop\test"</StartArguments>
+    <StartArguments>2 "C:\Users\robin\Desktop\test" "001900603" 04 11 1980 "041183" "40000774683"</StartArguments>
   </PropertyGroup>
   <PropertyGroup>
     <PublishUrlHistory />

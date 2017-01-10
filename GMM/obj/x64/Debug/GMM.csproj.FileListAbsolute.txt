@@ -23,3 +23,32 @@ C:\Users\robin\OneDrive\documents\visual studio 2015\Projects\GMM\GMM\bin\x64\De
 C:\Users\robin\OneDrive\documents\visual studio 2015\Projects\GMM\GMM\bin\x64\Debug\CefSharp.Core.xml
 C:\Users\robin\OneDrive\documents\visual studio 2015\Projects\GMM\GMM\obj\x64\Debug\GMM.exe.manifest
 C:\Users\robin\OneDrive\documents\visual studio 2015\Projects\GMM\GMM\obj\x64\Debug\GMM.application
+C:\Users\robin\Source\Repos\GMM\GMM\bin\x64\Debug\GMM.exe.config
+C:\Users\robin\Source\Repos\GMM\GMM\bin\x64\Debug\GMM.exe.manifest
+C:\Users\robin\Source\Repos\GMM\GMM\bin\x64\Debug\GMM.application
+C:\Users\robin\Source\Repos\GMM\GMM\bin\x64\Debug\GMM.exe
+C:\Users\robin\Source\Repos\GMM\GMM\bin\x64\Debug\GMM.pdb
+C:\Users\robin\Source\Repos\GMM\GMM\bin\x64\Debug\CefSharp.Core.dll
+C:\Users\robin\Source\Repos\GMM\GMM\bin\x64\Debug\CefSharp.dll
+C:\Users\robin\Source\Repos\GMM\GMM\bin\x64\Debug\CefSharp.WinForms.dll
+C:\Users\robin\Source\Repos\GMM\GMM\bin\x64\Debug\CefSharp.Wpf.dll
+C:\Users\robin\Source\Repos\GMM\GMM\bin\x64\Debug\CefSharp.Wpf.xml
+C:\Users\robin\Source\Repos\GMM\GMM\bin\x64\Debug\CefSharp.WinForms.xml
+C:\Users\robin\Source\Repos\GMM\GMM\bin\x64\Debug\CefSharp.xml
+C:\Users\robin\Source\Repos\GMM\GMM\bin\x64\Debug\CefSharp.Core.xml
+C:\Users\robin\Source\Repos\GMM\GMM\obj\x64\Debug\GMM.csprojResolveAssemblyReference.cache
+C:\Users\robin\Source\Repos\GMM\GMM\obj\x64\Debug\MainWindow.g.cs
+C:\Users\robin\Source\Repos\GMM\GMM\obj\x64\Debug\App.g.cs
+C:\Users\robin\Source\Repos\GMM\GMM\obj\x64\Debug\GMM_MarkupCompile.cache
+C:\Users\robin\Source\Repos\GMM\GMM\obj\x64\Debug\GMM_MarkupCompile.lref
+C:\Users\robin\Source\Repos\GMM\GMM\obj\x64\Debug\MainWindow.baml
+C:\Users\robin\Source\Repos\GMM\GMM\obj\x64\Debug\GMM.g.resources
+C:\Users\robin\Source\Repos\GMM\GMM\obj\x64\Debug\GMM.Properties.Resources.resources
+C:\Users\robin\Source\Repos\GMM\GMM\obj\x64\Debug\GMM.csproj.GenerateResource.Cache
+C:\Users\robin\Source\Repos\GMM\GMM\obj\x64\Debug\GMM.exe.manifest
+C:\Users\robin\Source\Repos\GMM\GMM\obj\x64\Debug\GMM.application
+C:\Users\robin\Source\Repos\GMM\GMM\obj\x64\Debug\GMM.exe
+C:\Users\robin\Source\Repos\GMM\GMM\obj\x64\Debug\GMM.pdb
+C:\Users\robin\Source\Repos\GMM\GMM\bin\x64\Debug\asprise-ocr-dll-bundle-32.dll
+C:\Users\robin\Source\Repos\GMM\GMM\bin\x64\Debug\asprise-ocr-dll-bundle-64.dll
+C:\Users\robin\Source\Repos\GMM\GMM\bin\x64\Debug\Aspose.OCR.dll

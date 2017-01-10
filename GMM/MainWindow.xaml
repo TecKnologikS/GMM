@@ -10,13 +10,15 @@
         Title="MainWindow" Height="700" Width="700">
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="34*" />
-            <ColumnDefinition Width="45*"/>
-            <ColumnDefinition Width="267*"/>
+            <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="*" />
+            <RowDefinition Height="100px" />
         </Grid.RowDefinitions>
         <cefSharp:ChromiumWebBrowser x:Name="chrome" Grid.Row="0" Grid.Column="0" Initialized="ChromiumWebBrowser_Initialized" FrameLoadEnd="chrome_FrameLoadEnd" Grid.ColumnSpan="3" />
+        <Button x:Name="button" Grid.Row="1" Click="button_Click"/>
+
+
     </Grid>
 </Window>

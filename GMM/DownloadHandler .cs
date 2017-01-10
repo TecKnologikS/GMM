@@ -56,7 +56,7 @@ namespace GMM
             }
             if (downloadItem.IsComplete)
             {
-                browser.FocusedFrame.ExecuteJavaScriptAsync("close();");
+                
                 System.Diagnostics.Debug.WriteLine("Credit Agricol " + downloadItem.FullPath);
 
                 download.isFinish(downloadItem.FullPath);

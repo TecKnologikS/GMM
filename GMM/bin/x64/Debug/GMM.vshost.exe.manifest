@@ -42,6 +42,42 @@
     </dependentAssembly>
   </dependency>
   <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Aspose.OCR.dll" size="5946568">
+      <assemblyIdentity name="Aspose.OCR" version="16.12.0.0" publicKeyToken="716FCC553A201E56" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>DYSeHAoF71qPdQlVOhV1y0NNfqxz92mf+w/AH6W5/5k=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="asprise-ocr-dll-bundle-32.dll" size="28422656">
+      <assemblyIdentity name="asprise-ocr-dll-bundle-32" version="15.3.1.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>zzGJEvcMsjpR4nVrNDNTxLP+q8dSlVExk+njXUmrPoo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="asprise-ocr-dll-bundle-64.dll" size="29320192">
+      <assemblyIdentity name="asprise-ocr-dll-bundle-64" version="15.3.1.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>3NfEsSq1Crb1ZrQTXAMU1Zzrsom7tYDTg4IQAFOlFCY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CefSharp.dll" size="174080">
       <assemblyIdentity name="CefSharp" version="53.0.1.0" publicKeyToken="40C4B6FC221F4138" language="neutral" processorArchitecture="amd64" />
       <hash>
@@ -90,14 +126,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GMM.exe" size="17920">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GMM.exe" size="41472">
       <assemblyIdentity name="GMM" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>VNqhYG7Ucg9tRwMuGi8pZ4LdXxzTIlC6xfcJi715NzI=</dsig:DigestValue>
+        <dsig:DigestValue>CAL8NhlGAM3QnB9AYcs8qbOV1vf6V5+ECOtXLEuBzDA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
